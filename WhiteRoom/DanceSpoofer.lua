@@ -1,7 +1,7 @@
 --[[
 
         Scripted and Published by draxfm.
-        repo: github.com/DraxFM/Roblox/WhiteRoom/DanceSpoofer.lua
+        repo: github.com/DraxFM/Roblox/blob/main/WhiteRoom/DanceSpoofer.lua
         Although this project is open source I'd appreciate credits if you are using parts or logic of this script for your own scripts.
         Thank you for using!
 
